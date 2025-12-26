@@ -42,7 +42,7 @@ export const UserEntryForm: React.FC = () => {
   return (
     <div className='container mx-auto px-4 py-8 h-full'>
        <h1 className="sm:text-5xl md:text-4xl relative top-10 text-3xl font-bold text-blue-500 dark:text-white text-center  font-sans">
-          LATIHAN SOAL PEMERINTAH DESA XI
+          LATIHAN SOAL PEMERINTAH DESA XII
           <br />
           <br />
           <span><h4 className='text-3xl'>Untuk Tes Perangkat Desa 2025</h4></span>

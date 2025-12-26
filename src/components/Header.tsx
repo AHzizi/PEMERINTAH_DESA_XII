@@ -8,7 +8,7 @@ export const Header: React.FC = () => {
         <div className="flex items-center justify-between">
           <div>
             <h1 className="text-xl font-bold text-gray-900 dark:text-white">
-              PEMDES XI
+              PEMDES XII
             </h1>
             <p className="text-sm text-gray-600 dark:text-gray-300">
               Untuk Tes Perangkat Desa 2025
