@@ -1,0 +1,1048 @@
+[
+  {
+    "id": 1,
+    "question": "Tanggal 28 oktober merupakan hari...",
+    "options": ["Hari Batik", "Hari Sumpah Pemuda", "Hari Pahlawan", "Hari Nasional", "Jawaban a, b, c dan d salah semua"],
+    "correctAnswer": 1,
+    "explanation": "28 Oktober diperingati sebagai Hari Sumpah Pemuda berdasarkan peristiwa Kongres Pemuda II tahun 1928.",
+    "reference": "Keppres No. 316 Tahun 1959"
+  },
+  {
+    "id": 2,
+    "question": "Siapakah yang menciptakan lagu Satu Nusa Satu Bangsa...",
+    "options": ["W.R. Supratman", "Ismail Marzuki", "Kusbini", "Liberty Manik", "Ibu Sud"],
+    "correctAnswer": 3,
+    "explanation": "Lagu Satu Nusa Satu Bangsa diciptakan oleh Liberty Manik (L. Manik).",
+    "reference": "Sejarah Musik Nasional"
+  },
+  {
+    "id": 3,
+    "question": "Perangkat desa yang bertugas tentang pertanahan adalah...",
+    "options": ["Kades", "Sekdes", "Kasi Pemerintahan", "Kaur Keuangan", "Kasi Pelayanan"],
+    "correctAnswer": 2,
+    "explanation": "Urusan pertanahan dan kependudukan merupakan tugas dari Kepala Seksi (Kasi) Pemerintahan.",
+    "reference": "Permendagri No. 84 Tahun 2015"
+  },
+  {
+    "id": 4,
+    "question": "Ir.Soekarno dalam sidang BPUPKI pertama, mengusulkan rumusan Pancasila yaitu...",
+    "options": [
+      "Nasionalisme internasional (peri kemanusiaan), mufakat, kesejahteraan sosial dan",
+      "Nasionalisme, Ketuhanan Yang Maha Esa, perikemanusiaan, kebangsaan Indonesia",
+      "Kesejahteraan sosial, internasionalisme, nasionalisme, peri kemanusiaan dan Ketuhanan",
+      "Internasionalisme, nasionalisme, mufakat, demokrasi dan Ketuhanan",
+      "Gotong royong, Ketuhanan, kerakyatan, nasionalisme dan demokrasi"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Rumusan Soekarno 1 Juni 1945: Kebangsaan Indonesia, Internasionalisme/Perikemanusiaan, Mufakat/Demokrasi, Kesejahteraan Sosial, Ketuhanan yang berkebudayaan.",
+    "reference": "Risalah Sidang BPUPKI"
+  },
+  {
+    "id": 5,
+    "question": "Norma pertama dalam tata hukum Indonesia adalah …",
+    "options": ["Dekrit Presiden", "Proklamasi Kemerdekaan", "Ketetapan MPR", "Pembukaan UUD 1945", "Pancasila"],
+    "correctAnswer": 4,
+    "explanation": "Pancasila merupakan sumber dari segala sumber hukum (norma dasar/Grundnorm).",
+    "reference": "UU No. 12 Tahun 2011"
+  },
+  {
+    "id": 6,
+    "question": "Hubungan antara pancasila dan Prokolamasi Kemerdekaan adalah …",
+    "options": [
+      "Pancasila memberi motivasi perjuangan kemerdekaan",
+      "Pancasila menjadi dasar perumusan Teks Proklamasi",
+      "Teks Proklamasi dirumuskan bersamaan dengan Pancasila",
+      "Proklamasi Kemerdekaan menjadi dasar berlakunya Pancasila",
+      "Nilai Pancasila dan Proklamasi Kemerdekaan adalah sama"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Proklamasi adalah norma pertama yang memungkinkan terbentuknya tertib hukum baru dimana Pancasila sebagai dasarnya.",
+    "reference": "Penjelasan UUD 1945"
+  },
+  {
+    "id": 7,
+    "question": "Menurut Pasal 14 ayat (1) UUD 1945 hasil perubahan pertama, dalam hal memberi grasi dan rehabilitasi, Presiden perlu memperhatikan pertimbangan dari ….",
+    "options": ["MPR", "Dewan Perwakilan Rakyat", "Mahkamah Agung", "Menteri Kehakiman", "Dewan Pertimbangan Agung"],
+    "correctAnswer": 2,
+    "explanation": "Presiden memberi grasi dan rehabilitasi dengan memperhatikan pertimbangan Mahkamah Agung.",
+    "reference": "Pasal 14 ayat (1) UUD 1945"
+  },
+  {
+    "id": 8,
+    "question": "Desentralisasi sebagai salah satu asas yang dianut dalam penyelenggaraan pemerintahan di daerah maknanya adalah ….",
+    "options": [
+      "Penugasan dari pemerintah kepada daerah untuk melaksanakan tugas tertentu",
+      "Penyerahan kewenangan kepada derah untuk mengurus rumah tangganya sendiri",
+      "Pendelegasian kewenangan dari pemerintah pusat kepada pemerintah daerah",
+      "Pelimpahan tugas kepada daerah untuk mengurus dan melaksanakan pemerintahan",
+      "Pembagian tugas pemerintahan antara pemerintah pusat dan pemerintah daerah"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Desentralisasi adalah penyerahan urusan pemerintahan oleh Pemerintah Pusat kepada daerah otonom.",
+    "reference": "UU No. 23 Tahun 2014"
+  },
+  {
+    "id": 9,
+    "question": "Cita-cita nasional bangsa Indonesia yang memberi corak kepada politik luar negeri Indoensia yang bebas dan aktif tercantum dalam Pembukaan UUD 1945, yaitu ..",
+    "options": [
+      "Menjaga keteriban dunia",
+      "Mengirimkan pasukan kewilayah konflik",
+      "Menentang penyerangan sepihak oleh AS",
+      "Mendukung penyelenggaraan hubungan bilateral",
+      "Kemerdekaan adalah hak segala bangsa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Politik bebas aktif dijiwai oleh alinea ke-4 Pembukaan UUD 1945: 'ikut melaksanakan ketertiban dunia'.",
+    "reference": "Pembukaan UUD 1945 Alinea IV"
+  },
+  {
+    "id": 10,
+    "question": "Contoh pelaksanaan politik luar negeri yang bebas dan aktif berdasarkan Pancasila adalah …",
+    "options": [
+      "Ikut campur dan memihak salah satu blok",
+      "Pengiriman pasukan perdamaian ke wilayah konflik",
+      "Memberi bantuan senjata kepada negara yang bertikai",
+      "Menghimpun negara sepaham dan seidologi",
+      "Organisasi ekonomi yang eropa sentris"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pengiriman Pasukan Garuda merupakan bukti peran aktif Indonesia menjaga perdamaian dunia tanpa memihak blok manapun.",
+    "reference": "UU No. 37 Tahun 1999"
+  },
+  {
+    "id": 11,
+    "question": "Fungsi filsafat Pancasila dalam hubungan dengan ideologi-ideologi di dunia adalah sebagai ….",
+    "options": [
+      "Perbandingan perkembangan ideologi",
+      "Penyaringan masuknya ideologi asing",
+      "Perpaduan filsafat dan ideologi",
+      "Perebutan hegemoni filsafat",
+      "Unsur ideologi setiap bangsa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pancasila berfungsi sebagai filter/penyaring agar nilai asing yang masuk sesuai dengan kepribadian bangsa.",
+    "reference": "Pancasila sebagai Paradigma Pembangunan"
+  },
+  {
+    "id": 12,
+    "question": "Dilihat dari segi tujuannya, negara kepolisian bertujuan …",
+    "options": ["Meningkatkan kesejahteraan", "Mewujudkan ketertiban", "Memelihara kekuasaan", "Menjamin keamanan", "Mempertahankan persatuan"],
+    "correctAnswer": 1,
+    "explanation": "Negara kepolisian (Polizeistaat) fokus pada ketertiban dan keamanan yang bersifat represif demi penguasa.",
+    "reference": "Teori Negara Hukum"
+  },
+  {
+    "id": 13,
+    "question": "Apabila didasarkan pada ajaran Trias Politika, maka penetapan APBN menurut UUD 1945 merupakan campur tangan…",
+    "options": [
+      "Presiden dalam kekuasaan Dewan Perwakilan Rakyat",
+      "Dewan Perwakilan Rakyat dalam kekuasaan presiden",
+      "Presiden dalam kekuasaan Mahkamah Agung",
+      "Mahkamah Agung dalamkekuasaan Presiden",
+      "DPR dalam kekuasaan Mahkamah Agung"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Penyusunan APBN adalah tugas eksekutif (Presiden) namun harus mendapat persetujuan legislatif (DPR).",
+    "reference": "Pasal 23 ayat (2) UUD 1945"
+  },
+  {
+    "id": 14,
+    "question": "Jika dibandingkan dengan kabinet parlementer kelebihan kabinet presidentil adalah dalam hal…",
+    "options": [
+      "Pembentukan kabinet sangat demokratis",
+      "Jalannya pemerintahan lebih setabil",
+      "Para menteri bertanggung jawab secara kolektif",
+      "Para menteri dapat diganti sewaktu-waktu",
+      "Pemerintahan lebih mencerminkan aspirasi rakyat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sistem presidensial lebih stabil karena masa jabatan eksekutif sudah tetap (fixed term) dan tidak bisa dijatuhkan parlemen dengan mudah.",
+    "reference": "Sistem Pemerintahan Indonesia"
+  },
+  {
+    "id": 15,
+    "question": "Dibandingkan dengan berbagai norma sosial lainnya, sanksi norma kesopanan bersumber dari …",
+    "options": ["Hati nurani", "Masyarakat", "Tuhan", "Lembaga sosial", "Negara"],
+    "correctAnswer": 1,
+    "explanation": "Norma kesopanan (etiket) sanksinya berasal dari masyarakat berupa celaan, cemoohan, atau pengucilan.",
+    "reference": "Sosiologi Hukum"
+  },
+  {
+    "id": 16,
+    "question": "Salah satu hal yang menjadi kewenangan pemerintah pusat menurut UU No.22 tahun 1999 adalah …",
+    "options": ["Industri dan perdagangan", "Penanaman modal", "Pemberdayaan sumber daya alam", "Pekerjaan umum", "Pendidikan dan kebudayaan"],
+    "correctAnswer": 2,
+    "explanation": "UU 22/1999 menyebutkan kewenangan pusat meliputi Luar negeri, Pertahanan, Peradilan, Moneter, Agama, serta pendayagunaan SDA.",
+    "reference": "UU No. 22 Tahun 1999"
+  },
+  {
+    "id": 17,
+    "question": "Pancasila sebagai way of life dalam kehidupan berbangsa, bernegara, dan bermasyarakat memiliki makna sebagai…..",
+    "options": ["Kristalisasi nilai", "Ciri-ciri warga negara", "Kepribadian bangsa", "Karakteristik bangsa", "Pedoman hidup"],
+    "correctAnswer": 4,
+    "explanation": "Way of life berarti pandangan hidup atau pedoman dalam berperilaku sehari-hari.",
+    "reference": "Pancasila sebagai Pandangan Hidup"
+  },
+  {
+    "id": 18,
+    "question": "Pancasila tidak mengenal adanya fasisme sebab fasisme bertitik tolak pada ....",
+    "options": [
+      "Pemusatan kekuasaan pada beberapa orang",
+      "Mengutamakan individualisme radikal",
+      "Material modern dan individualisme",
+      "Pemusatan kekuasaan pada satu orang",
+      "Memaksakan praktek liberalisme"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fasisme bersifat otoriter dengan pemusatan kekuasaan mutlak pada seorang pemimpin/diktator.",
+    "reference": "Perbandingan Ideologi"
+  },
+  {
+    "id": 19,
+    "question": "Upaya pendidikan politik secara intensif dan komprehensif dilakukan terutama untuk ….",
+    "options": [
+      "Mewujudkan kesatuan dalam berpolitik",
+      "Mencegah masuknya budaya politik asing",
+      "Meningkatkan peran berbagai lembaga negara",
+      "Mengembangkan budaya potitik yang demokratis",
+      "Menghindari perbedaan pandangan politik yang tajam"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pendidikan politik bertujuan membangun kesadaran berdemokrasi yang sehat dan dewasa.",
+    "reference": "Teori Budaya Politik"
+  },
+  {
+    "id": 20,
+    "question": "Fungsi pembukaan UUD 1945 alinea IV bagi Indonesia menjadi….",
+    "options": [
+      "Filter bagi masuknya budaya asing",
+      "Sumber budaya bangsa",
+      "Petunjuk pelaksanaan peraturan",
+      "Sumber hukum yang berlaku",
+      "Ciri dan karakteristik bangsa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Alinea IV mengandung Pancasila yang merupakan sumber dari segala sumber hukum negara.",
+    "reference": "Tap MPR No. III/MPR/2000"
+  },
+  {
+    "id": 21,
+    "question": "Jatuhnya kerajaan-kerajaan besar di Indonesia (1680-1750) ke tangan Belanda menandai awal dari…",
+    "options": [
+      "Hancurnya perdagangan rempah-rempah",
+      "Mulai terciptanya kesatuan wilayah di Indonesia",
+      "Pendidikan barat masuk ke Indonesia",
+      "Munculnya perlawanan terhadap kekuasaan Belanda",
+      "Berakhirnya pengaruh Portugis di Indonesia"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Kekalahan kerajaan lokal memicu pergeseran perlawanan dari bersifat kedaerahan menuju perlawanan terhadap kolonialisme sistematis.",
+    "reference": "Sejarah Nasional"
+  },
+  {
+    "id": 22,
+    "question": "Pada tahun 1950, setelah terbentuk negara kesatuan, UUD Sementara yang digunakan pada hakikatnya merupakan UUD …",
+    "options": [
+      "Hindia Belanda dengan beberapa perubahan",
+      "Negara Indonesia Timur dengan beberapa perubahan",
+      "1945 yang disempurnakan",
+      "RIS dengan beberapa perubahan",
+      "Baru yang direncanakan KNI"
+    ],
+    "correctAnswer": 3,
+    "explanation": "UUDS 1950 adalah perubahan dari Konstitusi RIS 1949 agar sesuai dengan bentuk negara kesatuan.",
+    "reference": "Sejarah Konstitusi Indonesia"
+  },
+  {
+    "id": 23,
+    "question": "Rencana pembangunan tahunan merupakan bentuk rinci dari ….",
+    "options": ["Propenas", "APBN", "Repelita", "RAPBN", "RAPBD"],
+    "correctAnswer": 0,
+    "explanation": "Propenas (Program Pembangunan Nasional) dijabarkan dalam rencana tahunan yang dibiayai oleh APBN.",
+    "reference": "Sistem Perencanaan Pembangunan Nasional"
+  },
+  {
+    "id": 24,
+    "question": "Hutan Indonesia dikhawatirkan akan semakin mengalami kerusakan parah terutama karena...",
+    "options": [
+      "Permintaan pabrik kertas",
+      "Meningkatnya industri tripleks",
+      "Terjadinya penyelundupan",
+      "Kemarau panjang",
+      "Kebakaran hutan"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Kebakaran hutan merupakan faktor utama kerusakan masif lahan hutan di Indonesia.",
+    "reference": "Data Lingkungan Hidup"
+  },
+  {
+    "id": 25,
+    "question": "TNI sebagai kekuatan pertahanan negara, sedangkan Polri sebagai kekuatan dengan fungsi …",
+    "options": [
+      "Sosial kemasyarakatan",
+      "Menjaga hukum dan keadilan",
+      "Pengendalian mumum",
+      "Keamanan dan ketertiban masyarakat",
+      "Penyidikan dan keamanan publik"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pasal 30 UUD 1945 menyebut Polri menjaga keamanan dan ketertiban masyarakat (Kamtibmas).",
+    "reference": "Pasal 30 UUD 1945"
+  },
+  {
+    "id": 26,
+    "question": "Arah kebijakan pembangunan bidang ekonomi menghindari struktur pasar monopolistik karena merugikan ….",
+    "options": [
+      "Pertumbuhan usaha koperasi",
+      "Perkembangan usaha pertanian",
+      "Terwujudnya persaingan sehat",
+      "Perkembangan dunia industri",
+      "Peningkatan pendapatan pajak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Monopoli menghambat persaingan usaha yang sehat yang diperlukan bagi ekonomi kerakyatan.",
+    "reference": "UU No. 5 Tahun 1999"
+  },
+  {
+    "id": 27,
+    "question": "Kemajuan iptek telah meningkatkan konsumerisme melalui …",
+    "options": ["Sinetron", "Penawaran barang mewah", "Iklan dalam media elektronik", "Film", "Kuis"],
+    "correctAnswer": 2,
+    "explanation": "Iklan digital/elektronik sangat masif mempengaruhi pola konsumsi masyarakat.",
+    "reference": "Sosiologi Modern"
+  },
+  {
+    "id": 28,
+    "question": "Mengembangkan otonomi daerah secara luas dan bertanggung jawab merupakan amanat GBHN pada bidang ….",
+    "options": ["Pembangunan daerah", "Pembangunan nasional", "Pengembangan pemerintah pusat", "Pengembangan pemerintah daerah", "Kesetaraan anata pusat dan daerah"],
+    "correctAnswer": 0,
+    "explanation": "Otonomi daerah adalah inti dari pembangunan daerah dalam kerangka NKRI.",
+    "reference": "GBHN 1999"
+  },
+  {
+    "id": 29,
+    "question": "Kedudukan Dewan Perwakilan Rakyat, menurut UUD 1945, kuat karena...",
+    "options": [
+      "Berhak menentapkan APBN",
+      "Seluruh anggota DPR merangkap menjadi anggota MPR",
+      "Setiap undang-undang menghendaki persetujuan DPR",
+      "Merupakan mitra Presiden di bidang legislatif",
+      "Turut serta meratifikasi perjanjian internasional"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fungsi legislasi DPR bersifat mutlak; tidak ada UU yang bisa disahkan tanpa persetujuan DPR.",
+    "reference": "Pasal 20 ayat (2) UUD 1945"
+  },
+  {
+    "id": 30,
+    "question": "Salah satu perbedaan prinsipil antara orde reformasi dengan orde sebelumnya adalah ….",
+    "options": [
+      "DPR bersidang sekurang-kurangnya sekali dalam setahun",
+      "Aspirasi rakyat langsung dapat disampaikan",
+      "Presiden dibantu oleh badan nondepartemen",
+      "Presiden dibantu oleh menteri negara",
+      "DPR dan MPR bersifat dua kamar"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Reformasi mengenalkan sistem bikameral di MPR (terdiri dari DPR dan DPD).",
+    "reference": "Amandemen UUD 1945"
+  },
+  {
+    "id": 31,
+    "question": "Pemilu masa reformasi menambahkan asas LUBER dengan asas...",
+    "options": ["Kebesamaan", "Semua untuk semua", "Efektif dan efisien", "Jujur dan adil", "Bertanggung jawab"],
+    "correctAnswer": 3,
+    "explanation": "Asas Pemilu sekarang adalah LUBER JURDIL (Langsung, Umum, Bebas, Rahasia, Jujur, dan Adil).",
+    "reference": "Pasal 22E UUD 1945"
+  },
+  {
+    "id": 32,
+    "question": "Penyelenggaraan pemerintah dengan otonomi berdasarkan pada asas …",
+    "options": ["Dekonsentrasi", "Desentralisasi", "Medebewin", "Sentralisasi", "konsentrasi"],
+    "correctAnswer": 1,
+    "explanation": "Otonomi daerah adalah perwujudan dari asas desentralisasi.",
+    "reference": "UU No. 23 Tahun 2014"
+  },
+  {
+    "id": 33,
+    "question": "Jakarta merupakan Daerah Khusus Ibu Kota karena memiliki kekhususan sebagai ….",
+    "options": ["Pusat pemerintahan negara", "Pusat industri tinggi", "Kota yang paling tua", "Daerah tujuan wisata", "Kota modern"],
+    "correctAnswer": 0,
+    "explanation": "Status kekhususan Jakarta adalah karena perannya sebagai ibu kota negara (Pusat Pemerintahan).",
+    "reference": "UU No. 29 Tahun 2007"
+  },
+  {
+    "id": 34,
+    "question": "Pada amandemen keempat UUD 1945, pasal 29, telah disepakati …",
+    "options": ["Penjelasan lebih rinci", "Adanya penambahan ayat", "Perubahan hanya pada ayat (1)", "Perubahan hanya pada ayat (2)", "Telah mengambil perubahan"],
+    "correctAnswer": 4,
+    "explanation": "Sidang MPR sepakat untuk tidak mengubah teks Pasal 29 UUD 1945 (tetap).",
+    "reference": "Amandemen IV UUD 1945"
+  },
+  {
+    "id": 35,
+    "question": "Dunia Melayu sangat beruntung dilihat dari sudut internasional karena….",
+    "options": [
+      "Letak geografis yang dipengaruhi angin musim",
+      "Tedapat beberapa keseltanan dikedua tepi Selat Malaka",
+      "Penggunaan mata uang yang sama",
+      "Agama yang sama",
+      "Penggunaan bahasa yang sama"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Letak strategis di jalur perdagangan global dipengaruhi oleh siklus angin musim yang memudahkan pelayaran.",
+    "reference": "Geografi Sejarah"
+  },
+  {
+    "id": 36,
+    "question": "Kedatangan bangsa asing ke Indonesia sejak abad X adalah karena lada di Sumatera, Jawa Barat, dan ….",
+    "options": ["Jawa Tengah", "Kalimantan Selatan", "Kalimantan Timur", "Jawa Timur", "Sulawesi Selatan"],
+    "correctAnswer": 1,
+    "explanation": "Kalimantan Selatan (Banjarmasin) merupakan salah satu penghasil lada utama di masa lalu.",
+    "reference": "Sejarah Ekonomi"
+  },
+  {
+    "id": 37,
+    "question": "Pemberdayaan ekonomi rakyat terkait dengan pedesaan karena hal berikut, KECUALI…",
+    "options": [
+      "Sebagian besar rakyat pedesaan hidup miskin",
+      "Wilayah negeri ini sebagian besar adalah pedesaan",
+      "Pedesaan kaya dengan potensi yang dapat dikembangkan",
+      "Rakyat di pedesaan menuntut demokratisasi ekonomi",
+      "Pembangunan pedesaan dapat menghemat arus urbanisasi"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Tuntutan demokratisasi ekonomi bukan alasan teknis utama dalam pemberdayaan melainkan tujuan politis.",
+    "reference": "Ekonomi Kerakyatan"
+  },
+  {
+    "id": 38,
+    "question": "Anggota Badan Pemeriksa Keuangan dipilih oleh ….",
+    "options": [
+      "Presiden dengan memperhatikan pertimbangan DPR",
+      "DPR dengan memperhatikan usul dari pemerinah",
+      "Presiden dengan memperhatikan pendapat DPD",
+      "DPR dengan memperhatikan pertimbangan DPD",
+      "Presiden dengan memperhatikan perimbangan DPD"
+    ],
+    "correctAnswer": 3,
+    "explanation": "BPK dipilih oleh DPR dengan pertimbangan DPD, lalu diresmikan Presiden.",
+    "reference": "Pasal 23F UUD 1945"
+  },
+  {
+    "id": 39,
+    "question": "Anggota DPR menurut UUD 1945 mempunyai hak interpelasi, yakni hak untuk ….",
+    "options": [
+      "Bertanya kepada Pemerintah",
+      "Melakukan penyelidikan",
+      "Melakukan perubahan terhadap RUU",
+      "Mengawasi jalannya pemerintahan",
+      "Ikut serta menetapkan APBN"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Interpelasi adalah hak meminta keterangan kepada Pemerintah mengenai kebijakan yang penting.",
+    "reference": "Pasal 20A UUD 1945"
+  },
+  {
+    "id": 40,
+    "question": "Mahkamah Agung mempunyai hak menguji formil terhadap peraturan perundang-undangan berupa ….",
+    "options": ["Undang-undang", "Peraturan pemerintah", "Keputusan presiden", "Keputusan menteri", "Peraturan daerah"],
+    "correctAnswer": 0,
+    "explanation": "Pengujian formil UU terhadap UUD dilakukan MK, namun soal ini kemungkinan merujuk pada tata urutan hukum lama/konteks tertentu; secara umum MA menguji peraturan di bawah UU terhadap UU.",
+    "reference": "Kekuasaan Kehakiman"
+  },
+  {
+    "id": 41,
+    "question": "Pancasila menjadi azas dalam kehidupan bermasyarakat. Oleh karena itu, setiap warga negara hendaknya….",
+    "options": [
+      "Memahami Pancasila sebagai sumber hukum",
+      "Memahami Pancasila sebagai dasar negara",
+      "Berperilaku sesuai nilai-nilai Pancasila",
+      "Berupaya selalu mempelajari Pancasila",
+      "Mempelajari hakikat dari Pancasila"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pengamalan adalah bentuk nyata dari Pancasila sebagai dasar kehidupan.",
+    "reference": "Butir-Butir Pancasila"
+  },
+  {
+    "id": 42,
+    "question": "Keunggulan demokrasi Pancasila dalam setiap pengambil keputusan ialah…",
+    "options": [
+      "Hasil keputusan harus dapat dipertanggungjawabkan",
+      "Kepentingan tiap individu didahulukan",
+      "Pengambil keputusan oleh pimpinan rapat",
+      "Keputusan diambil melalui musyawarah mufakat",
+      "Masalah harus diselesaikan dengan hati-hati"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Musyawarah untuk mufakat adalah ciri khas pengambilan keputusan ala demokrasi Pancasila.",
+    "reference": "Sila ke-4 Pancasila"
+  },
+  {
+    "id": 43,
+    "question": "Manakah pernyataan yang sesuai dengan sila ke-2 Pancasila?",
+    "options": [
+      "Kaum pria memiliki derajat yang lebih tinggi.",
+      "Pemimpin dan pemuka masyarakat berkedudukan lebih tinggi.",
+      "Manusia mempunyai derajat dan martabat yang sama.",
+      "Kedudukan seseorang ditentukan oleh yang dimilikinya.",
+      "Kedudukan seseorang ditentukan oleh perbuatannya."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sila ke-2 mengandung nilai kemanusiaan dan pengakuan harkat martabat manusia yang sederajat.",
+    "reference": "Sila ke-2 Pancasila"
+  },
+  {
+    "id": 44,
+    "question": "Nilai patriotisme dalam kehidupan berbangsa adalah….",
+    "options": [
+      "Selalu berjuang untuk kepentingan negara",
+      "Selalu menentang pada negara penjajah",
+      "Rela berkorban untuk kepentingan keluarga",
+      "Selalu mengupayakan persatuan bangsa",
+      "Mau menyumbangkan harta untuk masyarakat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Patriotisme adalah sikap cinta tanah air yang ditunjukkan dengan kerelaan berjuang demi negara.",
+    "reference": "Ketahanan Nasional"
+  },
+  {
+    "id": 45,
+    "question": "Suasana kebatinan atau cita-cita hukum dasar negara RI terangkum dalam …",
+    "options": [
+      "Pidato kenegaraan Presiden menjelang 17 Agustus",
+      "Berbagai konvensi dan jurisprudensi yang berlaku",
+      "Peraturan perundang-undangan yang telah berlaku",
+      "Empat pokok pikiran Pembukaan UUD 1945",
+      "Ketetapan dan keputusan MPR/MPRS"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pokok pikiran Pembukaan UUD 1945 merupakan pancaran dari Pancasila sebagai cita hukum.",
+    "reference": "Penjelasan UUD 1945"
+  },
+  {
+    "id": 46,
+    "question": "Tujuan negara 'melindungi segenap bangsa...' menunjukkan bangsa Indonesia menganut sistem …",
+    "options": [
+      "Negara hukum demokrasi",
+      "Negara kepolisian dan jaksa",
+      "Negara hukum kesejahteraan",
+      "Begara sebagai penjaga malam",
+      "Negara hukum dalam arti terbatas"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Welfare State (Negara Kesejahteraan) dimana negara aktif melindungi dan menyejahterakan rakyat.",
+    "reference": "Teori Welfare State"
+  },
+  {
+    "id": 47,
+    "question": "Persaingan antara orang Eropa di Banten terjadi antara Belanda dan ….",
+    "options": ["Orang-orang Spanyol", "Orang-orang Portugis", "Orang-orang Perancis", "Orang-orang Italia", "Orang-orang Inggris"],
+    "correctAnswer": 4,
+    "explanation": "Inggris (EIC) dan Belanda (VOC) bersaing ketat dalam perdagangan rempah di wilayah Banten.",
+    "reference": "Sejarah Kolonial"
+  },
+  {
+    "id": 48,
+    "question": "Yang dimaksud pendidikan dasar 9 tahun adalah …..",
+    "options": [
+      "Pendidikan yang terdiri dari prasekolah, SD, dan SLTP",
+      "Pendidikan tingkat SLTP 3 tahun yang dihapus dan diintegrasikan menjadi SD tahun",
+      "Pendidikan tingkat SD 6 tahun dan SLTP 3 tahun",
+      "Pendidikan pada tingkat SD yang diperpanjang menjadi 9 tahun",
+      "Pendidikan SD dan SLTP yang sama-sama menjadi 9 tahun"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Program Wajib Belajar (Wajar) mencakup 6 tahun SD dan 3 tahun SMP/MTs.",
+    "reference": "UU No. 20 Tahun 2003"
+  },
+  {
+    "id": 49,
+    "question": "Untuk menanggulangi pengangguran, salah satu jalan keluarnya ialah …. ",
+    "options": ["Memperbaiki sektor industri", "Memperluas kesempatan kerja", "Memperluas pendidikan", "Memanfaatkan sumber daya alam", "Meminta bantuan luar negeri"],
+    "correctAnswer": 1,
+    "explanation": "Memperluas lapangan kerja adalah solusi paling langsung untuk masalah pengangguran.",
+    "reference": "Ekonomi Makro"
+  },
+  {
+    "id": 50,
+    "question": "Sasaran perbaikan struktur politik demokratis ialah keseimbangan dan …",
+    "options": [
+      "Pemisahan kekuasaan secara tegas",
+      "Pengawasan yang ketat",
+      "Kebebasan pers",
+      "Kemauan pimpinan nasional",
+      "Dominasi partai politik"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Checks and Balances melalui pemisahan kekuasaan (Legislatif, Eksekutif, Yudikatif).",
+    "reference": "Teori Trias Politika"
+  },
+  {
+    "id": 51,
+    "question": "Hak yang didapatkan kepala desa PNS adalah berikut, kecuali:",
+    "options": ["Penghasilan Tetap", "Tunjangan Kesejahteraan", "Tambahan Tunjangan", "Penghasilan lainnya yang sah", "Penghasilan Pokok"],
+    "correctAnswer": 4,
+    "explanation": "Penghasilan PNS disebut Gaji Pokok, bukan 'Penghasilan Pokok' dalam terminologi hak kades.",
+    "reference": "UU Desa"
+  },
+  {
+    "id": 52,
+    "question": "Pencatatan aset desa yang termasuk KIB B yaitu :",
+    "options": ["Jalan Betonisasi", "Tanah bengkok dan bondo desa", "Komputer dan laptop", "Sambungan listrik atau telepon", "Balai Desa"],
+    "correctAnswer": 2,
+    "explanation": "KIB B mencakup Peralatan dan Mesin, seperti elektronik kantor.",
+    "reference": "Permendagri No. 1 Tahun 2016"
+  },
+  {
+    "id": 53,
+    "question": "Penandatangan SPJ Barang ditanda tangani oleh :",
+    "options": ["BPD dan kades", "Kades dan Sekdes", "Kades dan pengurus barang", "Sekdes dan pengurus Barang", "Pengurus Barang"],
+    "correctAnswer": 3,
+    "explanation": "Sekretaris desa sebagai koordinator dan pengurus barang sebagai pelaksana teknis.",
+    "reference": "Pengelolaan Aset Desa"
+  },
+  {
+    "id": 54,
+    "question": "Yang bukan merupakan sumber pendapatan Desa adalah:",
+    "options": ["pendapatan asli desa", "Pajak Bumi dan Bangunan", "bantuan keuangan dari pemerintah", "Hibah dan sumbangan dari pihak ketiga", "Retribusi Pasar Desa"],
+    "correctAnswer": 1,
+    "explanation": "PBB masuk ke kas daerah (Kabupaten/Kota), desa hanya mendapat Bagi Hasil Pajak.",
+    "reference": "UU Desa"
+  },
+  {
+    "id": 55,
+    "question": "Sesuai Pasal 100 PP 43/2014, maksimal 30% anggaran belanja Desa digunakan untuk, Kecuali:",
+    "options": [
+      "penghasilan tetap dan tunjangan perangkat Desa.",
+      "Tambahan Tunjangan Pemerintah Desa",
+      "operasional Pemerintah Desa.",
+      "tunjangan dan operasional BPD",
+      "insentif rukun tetangga dan rukun warga."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tambahan tunjangan biasanya masuk ke porsi 70% atau berasal dari sumber lain seperti bengkok.",
+    "reference": "PP No. 11 Tahun 2019"
+  },
+  {
+    "id": 56,
+    "question": "Rancangan APB Desa diverifikasi Oleh :",
+    "options": ["Bupati", "Camat atas nama Bupati", "Bagian pemerintahan Desa", "Bapermades kabaten", "Provinsi"],
+    "correctAnswer": 1,
+    "explanation": "Evaluasi dan verifikasi Raperdes APBDes didelegasikan kepada Camat.",
+    "reference": "Permendagri No. 20 Tahun 2018"
+  },
+  {
+    "id": 57,
+    "question": "Kepala Desa melaporkan realisasi Anggaran APBDesa kepada Bupati setiap :",
+    "options": ["Bulan", "Triwulan", "Semester", "Tahun", "Akhir masa jabatan"],
+    "correctAnswer": 2,
+    "explanation": "Laporan realisasi semesteran (I dan II) wajib dilaporkan kepada Bupati.",
+    "reference": "Pengelolaan Keuangan Desa"
+  },
+  {
+    "id": 58,
+    "question": "Prosentase maksimal Siltap Kades dan Perangkat jika ADD kurang dari 500 Juta adalah :",
+    "options": ["60% dari total ADD", "50% dari total ADD", "40% dari Total ADD", "40% dari total APBDes", "30% dari total APBDes"],
+    "correctAnswer": 0,
+    "explanation": "Ketentuan prosentase siltap bergantung pada besaran ADD.",
+    "reference": "PP No. 47 Tahun 2015"
+  },
+  {
+    "id": 59,
+    "question": "Jangka waktu bangun guna serah paling lama adalah :",
+    "options": ["35 Tahun", "20 Tahun", "10 Tahun", "5 Tahun", "1 Tahun"],
+    "correctAnswer": 1,
+    "explanation": "Pemanfaatan aset desa berupa Bangun Guna Serah maksimal 20 tahun.",
+    "reference": "Permendagri Aset Desa"
+  },
+  {
+    "id": 60,
+    "question": "Yang tidak termasuk dalam Klasifikasi Belanja Desa adalah :",
+    "options": [
+      "penyelenggaraan pemerintahan Desa",
+      "pelaksanaan pembangunan Desa",
+      "pelayanan masyarakat Desa",
+      "pembinaan kemasyarakatan Desa",
+      "pemberdayaan masyarakat Desa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Klasifikasi belanja hanya terdiri dari 5 bidang: Pemerintahan, Pembangunan, Pembinaan, Pemberdayaan, dan Tak Terduga.",
+    "reference": "Permendagri No. 20 Tahun 2018"
+  },
+  {
+    "id": 61,
+    "question": "Kegiatan yang masuk dalam Program penyelenggaraan Pemerintahan Desa adalah :",
+    "options": ["Operasional LPMD", "Operasoinal KPMD", "Operasional RT/RW", "Operasional PKK", "Operasional karang taruna"],
+    "correctAnswer": 2,
+    "explanation": "Operasional RT/RW merupakan bagian dari bidang Penyelenggaraan Pemerintahan.",
+    "reference": "Struktur Belanja Desa"
+  },
+  {
+    "id": 62,
+    "question": "Yang tidak termasuk dalam Surat Perjanjian kerjasama TPK dengan penyedia adalah:",
+    "options": [
+      "para pihak",
+      "ruang lingkup pekerjaan dn nilai Pekerjaan",
+      "Perhitungan Pengembalian sisa anggaran ke desa",
+      "hak dan kewajiban para pihak",
+      "jangka waktu pelaksanaan pekerjaan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Perhitungan pengembalian sisa bukan bagian dari kontrak kerjasama penyedia.",
+    "reference": "Pengadaan Barang/Jasa di Desa"
+  },
+  {
+    "id": 63,
+    "question": "Dana cadangan desa ditetapkan dengan :",
+    "options": ["Peraturan Daerah", "Perataran Bupati", "Peraturan Desa", "Peraturan Kepala Desa", "Keputusan Kepala Desa"],
+    "correctAnswer": 2,
+    "explanation": "Pembentukan dana cadangan wajib melalui Peraturan Desa (Perdes).",
+    "reference": "UU Desa"
+  },
+  {
+    "id": 64,
+    "question": "Bukti Pengeluaran belanja Desa harus mendapatkan pengesahan dari :",
+    "options": ["Kepala Desa", "Sekretaris Desa", "Bendahara Desa", "Pelaksana Kegiatan", "BPD"],
+    "correctAnswer": 1,
+    "explanation": "Sekretaris Desa berfungsi sebagai verifikator pengeluaran.",
+    "reference": "Siklus Keuangan Desa"
+  },
+  {
+    "id": 65,
+    "question": "Salah satu belanja yang bersifat mengikat adalah :",
+    "options": [
+      "Belanja Honorarium pembangunan",
+      "Belanja Pembelian bahan bangunan",
+      "Belanja pembayaran Listrik",
+      "Belanja Perjalanan Dinas",
+      "Belanja makan dan minum rapat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Belanja mengikat adalah belanja rutin yang wajib dibayar meski APBDes belum ditetapkan (Contoh: Listrik/Telepon).",
+    "reference": "Permendagri Keuangan Desa"
+  },
+  {
+    "id": 66,
+    "question": "Pengeluaran belanja desa yang wajib dilaksanakan dengan transfer paling sedikit adalah sebesar :",
+    "options": ["Rp. 1.000.000,-", "Rp. 3.000.000,-", "Rp. 5.000.000,-", "Rp. 10.000.000,-", "Rp. 25.000.000,-"],
+    "correctAnswer": 3,
+    "explanation": "Batas transaksi non-tunai/transfer biasanya ditetapkan di angka 10 Juta (tergantung Perbup setempat).",
+    "reference": "Sistem Non Tunai Desa"
+  },
+  {
+    "id": 67,
+    "question": "Perencanaan aset desa dituangkan dalam RPJMDesa untuk kebutuhan selama :",
+    "options": ["5 Tahun", "6 Tahun", "7 Tahun", "8 Tahun", "1 Tahun"],
+    "correctAnswer": 1,
+    "explanation": "Masa jabatan Kades (dan durasi RPJMDes) adalah 6 tahun per periode.",
+    "reference": "UU No. 6 Tahun 2014"
+  },
+  {
+    "id": 68,
+    "question": "Bentuk pemanfaatan aset desa seperti dibawah ini Kecuali :",
+    "options": ["Sewa", "Pinjam Pakai", "Penjualan", "Kerja sama Pemanfaatan", "Bangun serah guna"],
+    "correctAnswer": 2,
+    "explanation": "Aset desa tidak boleh diperjualbelikan (Penjualan) kecuali untuk kepentingan umum yang sangat terbatas.",
+    "reference": "Permendagri Aset Desa"
+  },
+  {
+    "id": 69,
+    "question": "Penatausahaan Keuangan menggunakan buku-buku dibawah ini kecuali :",
+    "options": ["buku kas umum", "Buku Kas khusus", "buku kas pembantu pajak", "buku bank", "buku bantu penerimaan"],
+    "correctAnswer": 1,
+    "explanation": "Buku Kas Khusus bukan merupakan buku standar penatausahaan desa.",
+    "reference": "Permendagri No. 113/2014"
+  },
+  {
+    "id": 70,
+    "question": "Yang tidak masuk dalam Pendapatan Desa adalah :",
+    "options": [
+      "bantuan Keuangan dari APBN",
+      "Hibah uang dari Perseorangan",
+      "Hasil Penjualan Bengkok Perangkat Desa",
+      "Hasil Sewa lapangan Desa",
+      "Bantuan barang secara swadaya"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tanah bengkok dilarang dijual, hanya boleh disewakan/dikelola.",
+    "reference": "Larangan Penjualan Aset Desa"
+  },
+  {
+    "id": 71,
+    "question": "UU tentang desa adalah:",
+    "options": ["No. 10 Tahun 2014", "No. 11 Tahun 2014", "No. 20 Tahun 2014", "No.6 Tahun 2014", "No. 22 Tahun 2014"],
+    "correctAnswer": 3,
+    "explanation": "Undang-Undang Nomor 6 Tahun 2014 adalah regulasi pokok tentang desa.",
+    "reference": "UU Desa"
+  },
+  {
+    "id": 72,
+    "question": "Yang tidak termasuk dalam pengadaan barang dan jasa desa adalah :",
+    "options": ["Pembelian Kendaraan Bermotor", "Pebelian mebelair", "Pembelian tanah", "Pembelian televisi", "Cetak buku"],
+    "correctAnswer": 2,
+    "explanation": "Pengadaan tanah biasanya memiliki prosedur khusus di luar pengadaan barang/jasa rutin.",
+    "reference": "Perka LKPP No. 13 Tahun 2013"
+  },
+  {
+    "id": 73,
+    "question": "Permendagri nomor 1 tahun 2016 mengatur tentang...",
+    "options": ["Keuangan desa", "Kewenangan Desa", "Aset Desa", "Kewajiban Desa", "Pilkades"],
+    "correctAnswer": 2,
+    "explanation": "Permendagri 01/2016 adalah pedoman pengelolaan aset desa.",
+    "reference": "Judul Permendagri"
+  },
+  {
+    "id": 74,
+    "question": "Pemegang kekuasaan pengelolaan aset desa adalah :",
+    "options": ["Kepala Desa", "BPD", "Sekretaris Desa", "Kaur Umum", "Kepala desa Bersama BPD"],
+    "correctAnswer": 0,
+    "explanation": "Kepala Desa adalah pemegang kekuasaan milik desa (PKMD).",
+    "reference": "UU Desa"
+  },
+  {
+    "id": 75,
+    "question": "Yang bertugas dalam Pengadministrasian Aset di desa adalah :",
+    "options": ["Kepala desa", "Sekdes", "Kaur Keuangan", "Kaur Tata usaha dan Umum", "Kasi Pemerintahan"],
+    "correctAnswer": 3,
+    "explanation": "Kaur Tata Usaha dan Umum bertugas mengurusi administrasi aset/perlengkapan.",
+    "reference": "Tupoksi Perangkat Desa"
+  },
+  {
+    "id": 76,
+    "question": "Pembantu Pengelola Aset yang ada di desa adalah :",
+    "options": ["Sekretaris Desa", "Kaur tata usaha dan Umum", "Kaur Perencanaan", "Masing-masing kasi", "Kepala Dusun"],
+    "correctAnswer": 1,
+    "explanation": "Kaur TU Umum secara teknis membantu pengelolaan aset.",
+    "reference": "Permendagri No. 1/2016"
+  },
+  {
+    "id": 77,
+    "question": "Nama dan nilai barang yang dirangkum dalam :",
+    "options": ["RAB APB Desa", "Dokumen APB Desa", "Perincian APB Desa", "Nota Desa", "Buku APB Desa"],
+    "correctAnswer": 0,
+    "explanation": "RAB (Rencana Anggaran Biaya) memuat detail item dan harga.",
+    "reference": "Teknis APBDes"
+  },
+  {
+    "id": 78,
+    "question": "Yang Bukan merupakan pendapatan desa dari dana transfer adalah",
+    "options": ["dana Desa", "Pajak & Retribusi Daerah", "alokasi dana Desa", "bantuan keuangan APBD/APBN", "bantuan pihak ketiga"],
+    "correctAnswer": 4,
+    "explanation": "Bantuan pihak ketiga masuk ke Pendapatan Lain-lain, bukan transfer pemerintah.",
+    "reference": "Struktur APBDes"
+  },
+  {
+    "id": 79,
+    "question": "Kegiatan Penyusunan Perencanaan Pembangunan masuk dalam program :",
+    "options": ["Penyelenggaraan Pemerintahan Desa", "Pembangunan Desa", "Pemberdayaan Masyarakat Desa", "Pembinaan Kemasyarakatan", "Belanja Tidak Terduga"],
+    "correctAnswer": 0,
+    "explanation": "Perencanaan desa (Musdes, RPJM, RKP) dibiayai dari bidang Penyelenggaraan Pemerintahan.",
+    "reference": "Kode Rekening Desa"
+  },
+  {
+    "id": 80,
+    "question": "Yang bukan merupakan Jenis belanja Barang/Jasa adalah :",
+    "options": ["belanja bahan/material", "belanja jasa kantor", "belanja premi asuransi", "belanja Pembelian kendaraan", "belanja perawatan kendaraan"],
+    "correctAnswer": 3,
+    "explanation": "Pembelian kendaraan termasuk Belanja Modal, bukan Belanja Barang/Jasa.",
+    "reference": "Akuntansi Desa"
+  },
+  {
+    "id": 81,
+    "question": "Yang termasuk bahan habis pakai adalah :",
+    "options": ["Belanja air", "Belnja surat kabar", "Belanja bahan Baku bangunan", "Belanja bahan bakar minyak/Gas", "Belanja penggantian suku Cadang"],
+    "correctAnswer": 3,
+    "explanation": "BBM/Gas adalah contoh bahan yang habis dalam satu kali pakai/proses.",
+    "reference": "Klasifikasi Barang"
+  },
+  {
+    "id": 82,
+    "question": "Penetapan Keadaan Luar Biasa (KLB) dilakukan oleh :",
+    "options": ["Kepala Desa", "BPD", "Camat", "Bupati", "Masyarakat"],
+    "correctAnswer": 3,
+    "explanation": "Status darurat atau KLB biasanya ditetapkan melalui Keputusan Bupati.",
+    "reference": "Mitigasi Bencana"
+  },
+  {
+    "id": 83,
+    "question": "Dana cadangan dimasukkan di APB Desa pada Kode Rekening :",
+    "options": ["Pendapatan Desa", "Belanja Desa", "Penerimaan Pembiayaan", "Pengeluaran Pembiayaan", "Kegiatan Pemerintahan Desa"],
+    "correctAnswer": 3,
+    "explanation": "Pembentukan dana cadangan dicatat sebagai Pengeluaran Pembiayaan.",
+    "reference": "Permendagri Keuangan Desa"
+  },
+  {
+    "id": 84,
+    "question": "Jumlah keanggotaan TPK masing-masing desa adalah maksimal...",
+    "options": ["10", "12", "14", "16", "18"],
+    "correctAnswer": 0,
+    "explanation": "TPK (Tim Pelaksana Kegiatan) biasanya berjumlah ganjil (minimal 3, 5, 7, 9).",
+    "reference": "Perka LKPP"
+  },
+  {
+    "id": 85,
+    "question": "Tugas Pokok Kepala Desa dalam pengadaan barang dan jasa adalah :",
+    "options": [
+      "memverifikasi kelengkapan dokumen",
+      "mengembalikan dokumen kepada TPK",
+      "mengawasi pelaksanaan pengadaan",
+      "menyampaikan hasil verifikasi",
+      "menyimpan seluruh dokumen"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kades bertugas memantau dan mengawasi, verifikasi adalah tugas Sekdes.",
+    "reference": "Tugas PKPKD"
+  },
+  {
+    "id": 86,
+    "question": "Membuat gambar desain dan RAB adalah tugas dari :",
+    "options": ["Ketua TPK", "Sekretaris TPK", "Panitia Perencana", "Panitia Pengadaan", "Panitia Penerima Hasil"],
+    "correctAnswer": 2,
+    "explanation": "Tim atau Panitia Perencana yang bertugas menyusun teknis kegiatan.",
+    "reference": "SOP Pembangunan Desa"
+  },
+  {
+    "id": 87,
+    "question": "Panitia Pelaksana melaksanakan pekerjaan kecuali:",
+    "options": [
+      "melaksanakan pemilihan penyedia",
+      "Melakukan kaji ulang lokasi",
+      "Mengajukan kebutuhan bahan",
+      "Mendatangkan tenaga ahli",
+      "Melaksanakan pekerjaan swakelola"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pemilihan penyedia adalah ranah pengadaan/TPK, bukan pelaksana lapangan teknis.",
+    "reference": "Manajemen Proyek Desa"
+  },
+  {
+    "id": 88,
+    "question": "Pembayaran pengadaan barang/ jasa dilaksanakan Oleh :",
+    "options": ["Kepala Desa", "Ketua TPK", "Bendahara TPK", "Bendahara Desa", "Panitia Pengadaan"],
+    "correctAnswer": 3,
+    "explanation": "Seluruh transaksi keluar dari kas desa dilakukan oleh Bendahara Desa.",
+    "reference": "Permendagri No. 113/2014"
+  },
+  {
+    "id": 89,
+    "question": "Jumlah tim penyusun RPJMDes paling sedikit sebanyak :",
+    "options": ["5 Orang", "7 Orang", "9 orang", "11 orang", "13 orang"],
+    "correctAnswer": 1,
+    "explanation": "Tim penyusun RPJM Desa berjumlah minimal 7 orang.",
+    "reference": "Permendagri No. 114 Tahun 2014"
+  },
+  {
+    "id": 90,
+    "question": "Tim penyusun RPJM Desa mempunyai tugas Keecuali:",
+    "options": [
+      "Menyelaraskan arah kebijakan Kabupaten",
+      "Melakukan PKD",
+      "Melakukan penyusunan rancangan RPJM Desa",
+      "Melakukan penyempurnaan rancangan RPJM Desa",
+      "Menentukan RKPDes"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Menentukan RKPDes bukan tugas tim RPJMDes; RKPDes memiliki tim penyusunnya sendiri setiap tahun.",
+    "reference": "Siklus Perencanaan"
+  },
+  {
+    "id": 91,
+    "question": "Penyelarasan RPJM Desa terintegrasi dengan hal berikut kecuali :",
+    "options": ["RPJMD Kabupaten", "Renstra SKPD", "APBDes", "Rencana Tata Ruang Kabupaten", "Rencana Rinci Tata Ruang"],
+    "correctAnswer": 2,
+    "explanation": "APBDes adalah dokumen pelaksanaan tahunan, bukan referensi penyelarasan jangka menengah (RPJM).",
+    "reference": "Permendagri Perencanaan Desa"
+  },
+  {
+    "id": 92,
+    "question": "RPJMDes ditetapkan desa dalam bentuk :",
+    "options": ["Peraturan Desa", "Peraturan Kepala Desa", "Peraturan Bersama", "Keputusan Kepala Desa", "APBDes"],
+    "correctAnswer": 0,
+    "explanation": "RPJMDes dan RKPDes harus ditetapkan melalui Peraturan Desa (Perdes).",
+    "reference": "Pasal 79 UU Desa"
+  },
+  {
+    "id": 93,
+    "question": "Tujuan disusunnya RKP Desa adalah:",
+    "options": [
+      "Membahas prioritas program sesuai kewenangan desa",
+      "Menjamin pembangunan sesuai kebutuhan masyarakat",
+      "Menyelaraskan rencana kegiatan dan anggaran",
+      "Memelihara hasil pembangunan",
+      "Mendorong peran serta masyarakat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RKP (Rencana Kerja Pemerintah) Desa adalah penjabaran operasional tahunan dari RPJMDes.",
+    "reference": "Permendagri No. 114/2014"
+  },
+  {
+    "id": 94,
+    "question": "Penyusunan Rancangan RKP Desa dilakukan oleh Tim Penyusun berpedoman pada :",
+    "options": [
+      "hasil kesepakatan musyawarah Desa",
+      "pagu indikatif Desa",
+      "pendapatan asli Desa",
+      "rencana kegiatan Pemerintah pusat/daerah",
+      "masukan kepala desa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pagu indikatif menentukan batas maksimal rencana belanja yang bisa disusun dalam RKP.",
+    "reference": "Sistem Perencanaan Desa"
+  },
+  {
+    "id": 95,
+    "question": "Tunjangan Kesehatan diberikan kepada :",
+    "options": [
+      "Perangkat Saja",
+      "Perangkat beserta istri/suami saja",
+      "Perangkat, istri/suami dan anak",
+      "Perangkat, orang tua, istri/suami dan anak",
+      "Perangkat dan selingkuhannya"
+    ],
+    "correctAnswer": 2,
+    "explanation": "BPJS Kesehatan menanggung kepala keluarga (perangkat), pasangan, dan maksimal 3 anak.",
+    "reference": "Aturan BPJS Kesehatan"
+  },
+  {
+    "id": 96,
+    "question": "Besaran Bengkok yang diterima oleh Kepala Desa diatur dalam :",
+    "options": ["Peraturan desa", "Keputusan Kepala Desa", "Peraturan Kepala Desa", "APBDes", "RPJMDes"],
+    "correctAnswer": 0,
+    "explanation": "Pengelolaan aset desa (termasuk bengkok) harus dituangkan dalam Perdes.",
+    "reference": "UU Desa"
+  },
+  {
+    "id": 97,
+    "question": "Kode rekening untuk pembiayaan sesuai PERMENDAGRI No. 113 Tahun 2014 adalah..",
+    "options": ["1", "2", "3", "4", "5"],
+    "correctAnswer": 2,
+    "explanation": "1: Pendapatan, 2: Belanja, 3: Pembiayaan.",
+    "reference": "Permendagri No. 113/2014"
+  },
+  {
+    "id": 98,
+    "question": "Pembangunan fisik rabat beton dimasukkan dalam golongan KIB :",
+    "options": ["A", "B", "C", "D", "E"],
+    "correctAnswer": 3,
+    "explanation": "KIB D adalah Kartu Inventaris Barang untuk Jalan, Irigasi, dan Jaringan.",
+    "reference": "Pengelolaan Aset"
+  },
+  {
+    "id": 99,
+    "question": "Pelaksanaan Pembangunan baru dikerjakan 50% maka pencatatan masuk dalam KIB :",
+    "options": ["B", "C", "D", "E", "F"],
+    "correctAnswer": 4,
+    "explanation": "KIB F digunakan untuk Konstruksi dalam Pengerjaan (KDP).",
+    "reference": "Akuntansi Aset Tetap"
+  },
+  {
+    "id": 100,
+    "question": "Pembuatan SPJ barang dilaporkan Kepada Kepala desa setiap :",
+    "options": ["Perbulan", "Triwulan", "Caturwulan", "Semester", "Setahun"],
+    "correctAnswer": 4,
+    "explanation": "Laporan inventarisasi/pengelolaan barang dilaporkan secara tahunan atau sesuai periodesasi pelaporan keuangan.",
+    "reference": "Permendagri Aset"
+  }
+]
